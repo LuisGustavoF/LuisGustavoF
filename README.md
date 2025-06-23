@@ -41,4 +41,7 @@
 
 ---
 
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+## 🐍 Snake eating my contributions
+
+![Snake animation](https://github.com/LuisGustavoF/LuisGustavoF/blob/output/github-contribution-grid-snake.svg)
+
