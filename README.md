@@ -1,7 +1,7 @@
 <h1 align="center">👋 Oi, eu sou o Luis Gustavo!</h1>
 
 <p align="center">
-  🚀 Estudante de Analise e Desenvolvimento Web - Unilassale
+  🚀 Estudante de Analise e Desenvolvimento de Sistemas - Unilassale
   💡 Curioso por tecnologia e inovação<br>
   🎮 Apaixonado por games, música e café forte ☕🔥
 </p>
