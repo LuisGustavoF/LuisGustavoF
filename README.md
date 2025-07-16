@@ -1,7 +1,7 @@
 <h1 align="center">👋 Oi, eu sou o Luis Gustavo!</h1>
 
 <p align="center">
-  🚀 Estudante de programação na <strong>IOS</strong><br>
+  🚀 Estudante de Analise e Desenvolvimento Web - Unilassale
   💡 Curioso por tecnologia e inovação<br>
   🎮 Apaixonado por games, música e café forte ☕🔥
 </p>
@@ -39,9 +39,4 @@
   <a href="https://www.twitch.tv/luisthemito"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"></a>
 </p>
 
----
-
-## 🐍 Snake eating my contributions
-
-![Snake animation](https://github.com/LuisGustavoF/LuisGustavoF/blob/output/github-contribution-grid-snake.svg)
 
