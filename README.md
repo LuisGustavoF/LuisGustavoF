@@ -3,8 +3,7 @@
 </h1>
 
 <p align="center">
-  🚀 Estudante de Análise e Desenvolvimento de Sistemas - Unilassale<br>
-  🤖 Atualmente estudando Inteligência Artificial<br>
+  🚀 Estudante de Inteligência Artificial - Unilassale<br>
   🛠️ Trabalhando como Técnico de Informática<br>
   🎮 Apaixonado por games, música e café forte ☕🔥
 </p>
@@ -40,10 +39,10 @@
 
 ---
 
-## 🏆 **Troféus**
+## 📈 **Atividade**
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=LuisGustavoF&theme=radical&no-frame=true&row=1&column=6" alt="Troféus GitHub"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LuisGustavoF&theme=radical&hide_border=true&area=true" alt="Gráfico de Atividade"/>
 </p>
 
 ---
