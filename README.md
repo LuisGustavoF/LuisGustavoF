@@ -1,9 +1,16 @@
-<h1 align="center">👋 Oi, eu sou o Luis Gustavo!</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&pause=1000&color=FF2E88&center=true&vCenter=true&width=500&lines=Oi%2C+eu+sou+o+Luis+Gustavo!;Estudante+de+IA+%40+Unilassale;T%C3%A9cnico+de+Inform%C3%A1tica" alt="Typing SVG" />
+</h1>
 
 <p align="center">
-  🚀 Estudante de Analise e Desenvolvimento de Sistemas - Unilassale<br>
-  💡 Curioso por tecnologia e inovação<br>
+  🚀 Estudante de Análise e Desenvolvimento de Sistemas - Unilassale<br>
+  🤖 Atualmente estudando Inteligência Artificial<br>
+  🛠️ Trabalhando como Técnico de Informática<br>
   🎮 Apaixonado por games, música e café forte ☕🔥
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=LuisGustavoF&label=Visualizações&color=ff2e88&style=for-the-badge" alt="Visualizações de perfil"/>
 </p>
 
 ---
@@ -29,6 +36,24 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=LuisGustavoF&theme=radical&hide_border=true&locale=pt-br" alt="GitHub Streak" />
+</p>
+
+---
+
+## 🏆 **Troféus**
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=LuisGustavoF&theme=radical&no-frame=true&row=1&column=6" alt="Troféus GitHub"/>
+</p>
+
+---
+
+## 💼 **Projeto em Destaque**
+
+<p align="center">
+  <a href="https://github.com/LuisGustavoF/PetShop">
+    <img src="https://github-readme-stats-rickstaa.vercel.app/api/pin/?username=LuisGustavoF&repo=PetShop&theme=radical&hide_border=true" alt="PetShop"/>
+  </a>
 </p>
 
 ---
