@@ -23,8 +23,8 @@
 ## 📊 **Estatísticas**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LuisGustavoF&show_icons=true&theme=radical&hide_border=true&count_private=true&locale=pt-br" alt="Luis Gustavo's GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisGustavoF&layout=compact&theme=radical&hide_border=true&langs_count=10&locale=pt-br" alt="Top Langs" height="165"/>
+  <img src="https://github-readme-stats-rickstaa.vercel.app/api?username=LuisGustavoF&show_icons=true&theme=radical&hide_border=true&count_private=true&locale=pt-br" alt="Luis Gustavo's GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats-rickstaa.vercel.app/api/top-langs/?username=LuisGustavoF&layout=compact&theme=radical&hide_border=true&langs_count=10&locale=pt-br" alt="Top Langs" height="165"/>
 </p>
 
 <p align="center">
@@ -40,4 +40,3 @@
   <a href="https://www.linkedin.com/in/luis-gustavo-888248222/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://www.twitch.tv/luisthemito"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"></a>
 </p>
-
