@@ -22,10 +22,19 @@
 
 ## 📊 **Estatísticas**
 
+## 📊 Estatísticas
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LuisGustavoF&theme=tokyonight&show_icons=true" alt="Luis Gustavo's GitHub Stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisGustavoF&layout=compact&theme=tokyonight" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LuisGustavoF&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Luis Gustavo's GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisGustavoF&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Langs" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LuisGustavoF&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=LuisGustavoF&label=Visualizações+no+perfil&color=blueviolet&style=flat" alt="Profile Views" />
 </p>
 
 
