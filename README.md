@@ -39,14 +39,6 @@
 
 ---
 
-## 📈 **Atividade**
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LuisGustavoF&theme=radical&hide_border=true&area=true" alt="Gráfico de Atividade"/>
-</p>
-
----
-
 ## 💼 **Projeto em Destaque**
 
 <p align="center">
