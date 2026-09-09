@@ -1,7 +1,7 @@
 <h1 align="center">👋 Oi, eu sou o Luis Gustavo!</h1>
 
 <p align="center">
-  🚀 Estudante de Analise e Desenvolvimento de Sistemas - Unilassale
+  🚀 Estudante de Analise e Desenvolvimento de Sistemas - Unilassale<br>
   💡 Curioso por tecnologia e inovação<br>
   🎮 Apaixonado por games, música e café forte ☕🔥
 </p>
@@ -22,8 +22,6 @@
 
 ## 📊 **Estatísticas**
 
-## 📊 Estatísticas
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=LuisGustavoF&show_icons=true&theme=radical&hide_border=true&count_private=true&locale=pt-br" alt="Luis Gustavo's GitHub Stats" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisGustavoF&layout=compact&theme=radical&hide_border=true&langs_count=10&locale=pt-br" alt="Top Langs" height="165"/>
@@ -32,6 +30,7 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=LuisGustavoF&theme=radical&hide_border=true&locale=pt-br" alt="GitHub Streak" />
 </p>
+
 ---
 
 ## 📬 **Vamos nos conectar!**
@@ -41,5 +40,4 @@
   <a href="https://www.linkedin.com/in/luis-gustavo-888248222/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://www.twitch.tv/luisthemito"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"></a>
 </p>
-
 
